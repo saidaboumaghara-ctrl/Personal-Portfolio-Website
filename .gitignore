@@ -1,0 +1,7 @@
+# Visual Studio workspace files
+.vs/
+ProjectSettings.json
+VSWorkspaceState.json
+*.sqlite
+*.suo
+*.user
